@@ -129,7 +129,3 @@ The project is divided into four parts:
 - PyTorch
 - NumPy, Pandas, Matplotlib, Seaborn
 - Streamlit
-
----
-
-## Project Structure
